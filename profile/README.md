@@ -1,5 +1,3 @@
-# IDHL Group Hackathons
-
 ![IDHL Group Hackathon banner displaying the awards IDHL group has achieved and the agencies under the group.](https://raw.githubusercontent.com/IDHL-Hackathons/.github/main/profile/assets/banner.png)
 
 Welcome to the IDHL Group Hackathon GitHub Organization! This organization is dedicated to hosting repositories for our hackathon events, where teams collaborate on innovative projects and showcase their skills.
